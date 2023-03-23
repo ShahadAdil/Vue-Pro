@@ -1,8 +1,7 @@
 <script setup>
-
+import HeroImage from '../components/HeroImage.vue'
 </script>
 
 <template>
-    <h1>Hello World</h1>
-
+    <HeroImage/>
 </template>

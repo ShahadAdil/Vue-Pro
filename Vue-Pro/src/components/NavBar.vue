@@ -5,7 +5,9 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
   <nav class="navbar bg-body-tertiary fixed-top">
     <div class="container-fluid">
-      <img class="navbar-brand" src="" />
+      <!-- <img class="navbar-brand" src="" /> -->
+
+      <h6 class="navbar-brand">Pro</h6>
 
       <button
         class="navbar-toggler"
