@@ -23,7 +23,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
-  background-position: center;
+  background-position: top;
 }
 .centered {
   position: absolute;

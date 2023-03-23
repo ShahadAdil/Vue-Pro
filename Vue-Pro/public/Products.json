@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "KERAMIKVAS MED ANTIK FINISH",
+        "image": "../src/assets/img/lamp1.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "999 Kr"
+      },
+      {
+        "id": "2",
+        "name": "LAMPA MED KERAMIKFOT",
+        "image": "../src/assets/img/lamp2.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.299 Kr"
+      },
+      {
+        "id": "3",
+        "name": "LITEN LAMPA MED KERAMIKFOT",
+        "image": "../src/assets/img/lamp3.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "599 Kr"
+      },
+      {
+        "id": "4",
+        "name": "LAMPA MED GLASFOT ",
+        "image": "../src/assets/img/lamp4.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.999 Kr"
+      },
+      {
+        "id": "5",
+        "name": "LAMPA MED STATIVFOT        ",
+        "image": "../src/assets/img/lamp5.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.299 Kr"
+      },
+      {
+        "id": "6",
+        "name": "LAMPA MED TRÄFOT",
+        "image": "../src/assets/img/lamp6.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.049 Kr"
+      },
+      {
+        "id": "7",
+        "name": "LAMPA MED TRÄFOT",
+        "image": "../src/assets/img/lamp7.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "799 Kr"
+      },
+      {
+        "id": "8",
+        "name": "LAMPA MED MARMORFOT",
+        "image": "../src/assets/img/lamp8.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.049 Kr"
+      },
+      {
+        "id": "9",
+        "name": "LAMPA MED RÖDAKTIG FOT",
+        "image": "../src/assets/img/lamp9.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "399 Kr"
+      },
+      {
+        "id": "10",
+        "name": "LAMPA MED KERAMIKFOT",
+        "image": "../src/assets/img/lamp10.PNG",
+        "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price": "1.899 Kr"
+      }
+]
